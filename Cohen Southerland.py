@@ -1,4 +1,3 @@
-# This (Cohen Southerland) code has been collected from web, this is not my creation
 # Defining region codes
 INSIDE = 0  # 0000
 LEFT = 1  # 0001
